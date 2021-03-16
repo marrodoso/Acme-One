@@ -9,7 +9,6 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+-Javier Grosso Gomez de Terreros (javgrogom@alum.us.es)
 - César Gálvez Dorado (cesgaldor@alum.us.es)
 - Marcos Rodríguez Osorio (marrodoso@alum.us.es)
-
-
