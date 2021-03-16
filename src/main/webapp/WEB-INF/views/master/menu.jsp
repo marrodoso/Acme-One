@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-galvez" action="https://www.youtube.com/channel/UCtZ-NR6mtwRGRR48AtrYLjg"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-marcosrodriguez" action="https://www.youtube.com/channel/UC_4AujG6FVQlxZYGCE4UyYg"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-grosso" action="https://www.smashbros.com/es_ES/fighter/03.html"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-bellido" action="https://www.binance.com/es"/>
 		</acme:menu-option>
 		
 
